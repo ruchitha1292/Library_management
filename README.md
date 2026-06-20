@@ -1,7 +1,6 @@
 # Library Management System 
 
-Python + MySQL + Pandas. Built to be small enough to fully understand and
-explain in an interview.
+Python + MySQL + Pandas. 
 
 ## Files
 - `schema.sql` — creates the database and 3 tables, with sample data
