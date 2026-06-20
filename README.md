@@ -1,4 +1,4 @@
-# Library Management System — 7-Day Plan
+# Library Management System 
 
 Python + MySQL + Pandas. Built to be small enough to fully understand and
 explain in an interview.
